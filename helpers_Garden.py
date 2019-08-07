@@ -9,8 +9,7 @@ def visualize_tree(estimator, X, y, boundaries=True,
     ax = ax or plt.gca()
     
     # Plot the training points
-    ax.scatter(X[:, 0], X[:, 1], c=y, s=30, cmap='viridis',
-               clim=(y.min(), y.max()), zorder=3)
+    ax.scatter(X[:, 0], X[:, 1], c=y, s=30, cmap='viridis', zorder=3)
     ax.axis('tight')
     ax.axis('off')
     if xlim is None:
@@ -29,7 +28,7 @@ def visualize_tree(estimator, X, y, boundaries=True,
     Z = Z.reshape(xx.shape)
     contours = ax.contourf(xx, yy, Z, alpha=0.3,
                            levels=np.arange(n_classes + 1) - 0.5,
-                           cmap='viridis', clim=(y.min(), y.max()),
+                           cmap='viridis',
                            zorder=1)
 
     ax.set(xlim=xlim, ylim=ylim)
