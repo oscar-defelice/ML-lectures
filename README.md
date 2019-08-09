@@ -9,5 +9,5 @@ before delving into lower-level details.
 Theory is really important to become a self-confident and solid data scientist, but to start and to not get scared
 I was looking for a compromise between a complete bottom-up approach and the first principle derivation.
 
-I am really eager to get your comments and suggestions, so please do not be shy and tell me what you think and wher I colud improve.
+I am really eager to get your comments and suggestions, so please do not be shy and tell me what you think and where I can improve.
 
