@@ -2,6 +2,7 @@
 Here is the material for a course of two-weeks I will be giving in a Master of Data Science and AI in Milan.
 
 The lectures are devoted to students having little knowledge of python, but being aware of linear algebra and basic calculus.
+
 The theaching philosophy is the following. I prefered to give a short theoretical introduction, then share practical code implementations and give students a sense of the “whole game” 
 before delving into lower-level details.
 
