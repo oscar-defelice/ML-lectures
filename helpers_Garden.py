@@ -9,7 +9,8 @@ def visualize_tree(estimator, X, y, boundaries=True,
     ax = ax or plt.gca()
     
     # Plot the training points
-    ax.scatter(X[:, 0], X[:, 1], c=y, s=30, cmap='viridis', zorder=3)
+    ax.scatter(X[:, 0], X[:, 1], c=y, s=30, cmap='viridis',
+               clim=(y.min(), y.max()), zorder=3)
     ax.axis('tight')
     ax.axis('off')
     if xlim is None:
