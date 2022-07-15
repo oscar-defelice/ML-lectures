@@ -3,10 +3,10 @@ Here is the material for a course of two-weeks I will be giving in a Master of D
 
 This is part of a series of other lectures modules on
 
-1. [Introduction to Data Science](https://github.com/oscar-defelice/DSAcademy-lectures) 📈
-2. [Deep Learning](https://github.com/oscar-defelice/DeepLearning-lectures) 🦾
-3. [Time Series](https://github.com/oscar-defelice/TimeSeries-lectures) ⌛
-4. [Computer Vision Hands-On](https://github.com/oscar-defelice/Computer-Vision-Hands-on) 🕶️
+1. [Introduction to Data Science](https://oscar-defelice.github.io/DSAcademy-lectures) 📈
+2. [Deep Learning](https://oscar-defelice.github.io/DeepLearning-lectures) 🦾
+3. [Time Series](https://oscar-defelice.github.io/TimeSeries-lectures) ⌛
+4. [Computer Vision Hands-On](https://oscar-defelice.github.io/Computer-Vision-Hands-on/) 🕶️
 
 
 ## Introduction
